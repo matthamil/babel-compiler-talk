@@ -1,0 +1,12 @@
+{
+  "name": "function-compiler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parser.js",
+  "scripts": {
+    "tokenizer": "node ./tokenizer-example.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
