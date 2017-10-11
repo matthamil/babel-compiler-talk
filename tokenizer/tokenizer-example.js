@@ -4,9 +4,8 @@ const tokenizer = require('./tokenizer');
 
 const code = 'const greeting = (name) => "Hello " + name';
 
-
 console.log(
-  chalk.yellow('const') + 
+  chalk.yellow('const') +
   ' greeting = ' +
   '(name) ' +
   chalk.yellow('=>') + ' ' +

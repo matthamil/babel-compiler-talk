@@ -1,3 +1,6 @@
+/**
+ * Well, this is isn't complete. Oops.
+ */
 function parseNumber(tokens, current) {
   return [ current + 1, { type: 'NumberLiteral', value: tokens[current].value } ];
 }
