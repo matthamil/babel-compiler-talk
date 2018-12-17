@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "create-an-ast/package.json",
+        "tokenizer/package.json"
+      ]
+    }
+  }
+}
